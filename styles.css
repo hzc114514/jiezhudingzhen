@@ -23,7 +23,7 @@ html, body {
 }
 
 .kennedy {
-    width: 110px;
+    width: 1000px;
     height: 110px;
     position: absolute;
     background-image: url(./img/kennedy.png);
@@ -31,8 +31,8 @@ html, body {
 }
 
 .car {
-    width: 1000px;
-    height: 150px;
+    width: 150px;
+    height: 600px;
     top: 10%;
     position: relative;
     background-image: url(./img/car.png);
