@@ -24,14 +24,14 @@ html, body {
 
 .kennedy {
     width: 110px;
-    height: 85px;
+    height: 110px;
     position: absolute;
     background-image: url(./img/kennedy.png);
     background-size: cover;
 }
 
 .car {
-    width: 150px;
+    width: 1000px;
     height: 150px;
     top: 10%;
     position: relative;
